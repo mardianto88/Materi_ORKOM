@@ -1,46 +1,29 @@
-# Mardianto, S.Kom., M.Cs - I'm Computer Science
+# Mata Kuliah: Organisasi dan Arsitektur Komputer (Orkom)
 
-## About
-**Mardianto, S.Kom., M.Cs** adalah seorang dosen di Program Studi Ilmu Komputer, Universitas Sembilanbelas November Kolaka. Menyelesaikan pendidikan S-1 di Prodi Sistem Informasi (USN Kolaka) dan S-2 di Universitas Gadjah Mada (UGM), dengan bidang keahlian Sistem Komputer dan Jaringan. 
+## Tentang Mata Kuliah
+Mata kuliah ini memberikan pemahaman dasar tentang organisasi dan arsitektur komputer, mencakup konsep dasar perangkat keras komputer, evolusi dan struktur CPU, memori, serta desain dan simulasi sirkuit logika digital.
 
-Untuk informasi lebih lanjut, Anda dapat menghubungi melalui email di [mardianto.usn88@gmail.com](mailto:mardianto.usn88@gmail.com).
 
-## Computer Networking Engineering
-Bidang teknik yang berfokus pada perancangan, pengembangan, implementasi, dan pemeliharaan jaringan komputer. Jaringan komputer memungkinkan perangkat seperti komputer, server, router, switch, dan perangkat lainnya untuk saling berkomunikasi dan berbagi sumber daya.
-
-### Kontak
-- **Website**: [mardianto.cloud](https://mardianto.cloud)
-- **Github**: [github.com/mardianto88](https://github.com/mardianto88)
-- **Kota**: Sulawesi Tenggara, Indonesia
-- **Gelar**: Master of Computer Science
-- **Email**: [mardianto.usn88@gmail.com](mailto:mardianto.usn88@gmail.com)
-- **Dosen**: FTI, Ilmu Komputer
-
----
-
-## Mata Kuliah
-
-Silakan pilih kategori untuk melihat materi terkait.
-
-### Pilih Mata Kuliah: **Komunikasi Data dan Jaringan Komputer**
+## Mata Kuliah: **Organisasi dan Arsitektur Komputer**
 
 | Pertemuan Ke- | Materi Utama                              | Sub Materi                                                                 | 
 |---------------|-------------------------------------------|---------------------------------------------------------------------------|
-| Pertemuan 1   | Pengantar Komunikasi Data & Jaringan Komputer | 1. Konsep Komunikasi data<br>2. Model Komunikasi data<br>3. Teknik switching | 
-| Pertemuan 2   | Arsitektur Protokol                       | 1. Protokol model OSI<br>2. Protokol TCP/IP<br>3. Three Layer              | 
-| Pertemuan 3   | Transmisi Data                            | 1. Konsep Transmisi Data Analog & Digital<br>2. Data digital sinyal digital<br>3. Data Analog, Sinyal Analog |
-| Pertemuan 4   | Transmisi Data (Lanjutan)                 | 1. Gangguan Transmisi<br>2. Distorsi, Delay, dan Attenuation               | 
-| Pertemuan 5   | Media Transmisi                           | 1. Konsep Media Transmisi Kabel & Tanpa Kabel<br>2. Konfigurasi Media transmisi Kabel & tanpa | 
-| Pertemuan 6   | Pengkodean Data                           | 1. Kode-Kode BCD, ASCII, Morse dll<br>2. Encoding dan Decoding<br>3. Modulator-demodulator | 
-| Pertemuan 7   | Penugasan                                 | Penugasan                                                                 | 
-| Pertemuan 8   | Ujian Tengah Semester                    | Mencakup materi 1-7                                                         | 
-| Pertemuan 9   | Addressing                                | 1. Teknik Pengalamatan IP address<br>2. Konversi IP address Ke Notasi Biner | 
-| Pertemuan 10  | Addressing (Lanjutan)                     | 1. Subneting<br>2. Supernetting                                            | 
-| Pertemuan 11  | Routing                                   | 1. Konsep Routing Static & dynamic<br>2. Algoritma Routing                 |
-| Pertemuan 12  | Praktikum Routing (Lanjutan)              | 1. Simulasi Routing OSPF, RIP, BGP, EIGRP<br>2. Simulasi Menggunakan Cisco Packet Tracer | 
-| Pertemuan 13  | Praktikum Konfigurasi Routing Static & Dynamic | Praktikum Routing Static                                                   | 
-| Pertemuan 14  | Tugas Proyek                              | Sesuai instruksi                                                           | 
-| Pertemuan 15  | Tugas Proyek (Lanjutan)                   | Sesuai Instruksi                                                           | 
-| Pertemuan 16  | Ujian Akhir Semester                      | Mencakup Keseluruhan Materi Kuliah                                         | 
+| Pertemuan 1   | Pengantar Organisasi dan Arsitektur Komputer | 1. Silabus Kuliah<br>2. Pengantar Orkom dan Arkom<br>3. Aturan Kuliah      | 
+| Pertemuan 2   | Evolusi dan Kinerja Komputer              | 1. Komputer Generasi pertama Tabung Vakum<br>2. Komputer Generasi Ke dua Transistor<br>3. Komputer Generasi ketiga (chip)<br>4. Komputer Generasi Sekarang | 
+| Pertemuan 3   | Struktur CPU                              | 1. Struktur Komputer<br>2. Fungsi dan Komponen Utama Komputer<br>3. Struktur Utama CPU<br>4. Siklus Fetch Eksekusi, mekanisme Interupsi | 
+| Pertemuan 4   | Memory                                    | 1. Memory Internal<br>2. Memory Eksternal<br>3. Hirarki Memory<br>4. Metode Akses Memory | 
+| Pertemuan 5   | Internal Memory                           | 1. Packaging<br>2. Error Correction<br>3. Cache Memori<br>4. Direct Mapped Cache, Set Associative Cache | 
+| Pertemuan 6   | External Memory                           | 1. Jenis Memory External<br>2. Format dan Organisasi Data<br>3. RAID      | 
+| Pertemuan 7   | Penyimpanan Data                          | 1. Tipe Penyimpanan Data<br>2. Floppy Disk, Magnetik Disk<br>3. RAID      | 
+| Pertemuan 8   | Ujian Tengah Semester                    | Mencakup Materi keseluruhan materi pertemuan 1-6                          | 
+| Pertemuan 9   | Unit Input Output                         | 1. Modul Input/Output<br>2. Fungsi Modul Input/Output<br>3. Struktur Modul Input/Output | 
+| Pertemuan 10  | Set Instruksi                             | 1. Arsitektur Komputer<br>2. CISC Vs RISC<br>3. Desain Set Instruksi<br>4. Bahasa Rakitan (Assembly) | 
+| Pertemuan 11  | Operating System                          | 1. Jenis Sistem Operasi<br>2. Swaping, Partition, Paging, Relocation<br>3. Segmentation | 
+| Pertemuan 12  | Representasi Informasi                    | 1. Sign-Magnitude<br>2. Floating Point Representation<br>3. Floating Point Arithmetic | 
+| Pertemuan 13  | Logika Digital                            | 1. Gerbang Logika<br>2. AND, OR, NOT, XOR<br>3. Aturan Aljabar Boolean    | 
+| Pertemuan 14  | Circuit Design And Simulation             | 1. Praktikum 1 (Penugasan)<br>2. Tools Online Kilik                      | 
+| Pertemuan 15  | Circuit Design And Simulation (lanjutan)  | Praktikum 2 (Penugasan)                                                  | 
+| Pertemuan 16  | Ujian Akhir Semester                      | Mencakup keseluruhan materi kuliah                                        | 
+
 
 
